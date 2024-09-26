@@ -103,8 +103,8 @@ dict[slice('brand', 'audi', None), slice('model', 'Q2', None), slice('year', '19
 2.5) Create a set of following elements
 1.0, "Hello", 55 , (6,7,8)
 
- ```diff
-+ Correct!
+```diff
+- Wrong.
 ```
 
 3. Data Types and String Manipulation
@@ -240,5 +240,5 @@ if a % 2:
 ```
 
 ```diff
-! 8/21
+! 7/21
 ```
